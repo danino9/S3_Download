@@ -16,5 +16,5 @@ Ability to specify files to download via a events.txt file.
 
 ## To Be Implemented
 An option to specify a prefix instead of a txt file with all the files.
-Authors
-Your Name - Initial work
+## Authors
+Daniel
