@@ -1,1 +1,3 @@
 # S3_Download
+This script will get an events.txt file with all the files you want to download from your S3, and will use multitherading
+to download all the files. there will be displayed a progress bar with the amount of files downloaded/total to download and the speed of download in MB/s
