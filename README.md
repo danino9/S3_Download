@@ -4,5 +4,5 @@ to download all the files. there will be displayed a progress bar with the numbe
 Make sure to fill in all the necessary variables
 
 
-To Be Implemented:
+**To Be Implemented:**
 An option to specify a prefix instead of a txt file with all the files.
